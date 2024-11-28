@@ -1,4 +1,4 @@
-hneth mntyrshjn fxghjkteg zdegdjngd mngdn ertyszghfb n rgsnv
+hneth mntyrshjn fxghjkteg zdegdjngd mngdn 
 
 let users = [];
 
